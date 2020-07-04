@@ -9,6 +9,7 @@ Under construction, stolen from the generous Karl Broman's simple site (of which
 
 Here are some of my projects (or will be, when I replace Karl's stuff):
 
+- [Rubus hybrid](pages/rubus.html)
 - [Overview](pages/overview.html)
 - [Making an independent website](pages/independent_site.html)
 - [Making a personal site](pages/user_site.html)
