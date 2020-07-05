@@ -7,9 +7,9 @@ description: a place where i can put up some projects that i'm working on.
 
 Here is a partial list of some of my projects.
 
-- [Rubus hybrid](pages/rubus.html)
-- [RepeatKmer](pages/repeat_kmer.html)
 - [Old genetics paper translation](pages/woltereck.html)
+- [RepeatKmer](pages/repeat_kmer.html)
+- [Rubus hybrid](pages/rubus.html)
 
 To be updated.
 
