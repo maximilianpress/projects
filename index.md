@@ -1,7 +1,7 @@
 ---
 layout: page
 title: max's projects
-tagline: various projects that I'm working on at varying degrees of intensity
+tagline: projects that I'm working on at varying degrees of intensity
 description: a place where i can put up some projects that i'm working on.
 ---
 
@@ -10,8 +10,8 @@ Under construction, stolen from the generous Karl Broman's simple site (of which
 Here are some of my projects (or will be, when I replace Karl's stuff):
 
 - [Rubus hybrid](pages/rubus.html)
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
+- [RepeatKmer](pages/repeat_kmer.html)
+- [Old genetics paper translation](pages/woltereck.html)
 - [Making a personal site](pages/user_site.html)
 - [Making a site for a project](pages/project_site.html)
 - [Making a jekyll-free site](pages/nojekyll.html)
