@@ -1,17 +1,17 @@
 ---
 layout: page
 title: max's projects
-tagline: projects that I'm working on at varying degrees of intensity
+tagline: stuff that I'm working on at varying degrees of intensity
 description: a place where i can put up some projects that i'm working on.
 ---
 
-Under construction, stolen from the generous Karl Broman's simple site (of which a lot of material remains, see below).
-
-Here are some of my projects (or will be, when I replace Karl's stuff):
+Here is a partial list of some of my projects.
 
 - [Rubus hybrid](pages/rubus.html)
 - [RepeatKmer](pages/repeat_kmer.html)
 - [Old genetics paper translation](pages/woltereck.html)
+
+To be updated.
 
 ---
 
