@@ -10,5 +10,6 @@ I translate papers from German into English that other people haven't translated
  * [Keilhack 1909 (review of Woltereck 1909)](https://osf.io/5szyd/)
  * [Johannsen 1903 (pure lines)](https://osf.io/mksrb/)
  * [Woltereck 1911 (acquired characters; needs editing)](https://osf.io/29vt3)
+ * [Johannsen (1909) translation (definition of the gene, genotype, etc. Needs editing.](https://osf.io/prt6f/)
 
 
