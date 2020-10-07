@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reserve committee proposals
+title: Reserve committee activity
 description: Reserve ideas
 ---
 
