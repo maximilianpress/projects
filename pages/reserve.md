@@ -15,7 +15,7 @@ This page links to some of the information and proposals that we have put togeth
 ## Reserve committee proposals
 The following are specific proposals that the reserve committee has considered.
 
-### Financing the reserve through
+### Financing the reserve through move-in fees
 In fall of 2019, the reserve committee presented the board with a [proposal for increased move-in fee](https://docs.google.com/document/d/1HAA3FawEVH3gLhwMKtprO_gY47m4A_UAowPGWhnAYOE/edit?usp=sharing). 
 
 The board chose not to pursue this proposal at the time. We are hopeful that it will be considered at the 2021 general meeting.
