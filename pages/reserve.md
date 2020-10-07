@@ -25,6 +25,7 @@ This fee **reduces the financial burden on co-op members** and **is paid by buye
 * We already assess a move-in fee for all residents, to recoup our legal costs.
 * We don't need to alter the bylaws to charge this.
 * We can use proceeds from the flip tax to **reduce reserve dues**.
+* [Reserve projections](https://docs.google.com/spreadsheets/d/1lAlINrAk8BXSmkt7vZgVCZMQRBe4tOPhvajae3qdLv8/edit?usp=sharing) suggest that we can dramatically reduce reserve dues to co-op members with a move-in fee, assuming 1-2 sales each year (which is about average).
 
 ### Investing the reserve fund.
 The reserve committee proposed to invest the reserve fund, to maximize the impact of the reserve and reduce burdens on residents. This was put into effect (in a limited fashion) in Summer 2020. 
