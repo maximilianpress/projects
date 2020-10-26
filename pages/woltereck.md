@@ -12,4 +12,4 @@ I translate papers from German into English that other people haven't translated
  * [Woltereck 1911 (acquired characters; needs editing)](https://osf.io/29vt3)
  * [Johannsen (1909) translation (definition of the gene, genotype, etc. Needs editing.](https://osf.io/prt6f/)
 
-
+I also wrote a [short essay](https://osf.io/bmxzd/) about the very early history of the terms "genotype", "gene", and "phenotype".
